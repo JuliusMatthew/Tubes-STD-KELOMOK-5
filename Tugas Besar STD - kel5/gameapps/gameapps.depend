@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1702236676 source:d:\c++\tugas besar alpro\gameapps\gameapps.cpp
+	"gameapps.h"
+
+1702236823 d:\c++\tugas besar alpro\gameapps\gameapps.h
+	<iostream>
+
+1704342304 source:d:\c++\tugas besar alpro - kel5\gameapps\gameapps.cpp
+	"gameapps.h"
+
+1704344584 d:\c++\tugas besar alpro - kel5\gameapps\gameapps.h
+	<iostream>
+
+1704342321 source:d:\c++\tugas besar alpro - kel5\gameapps\games.cpp
+	"gameapps.h"
+
+1704343822 source:d:\c++\tugas besar alpro - kel5\gameapps\main.cpp
+	"gameapps.h"
+
+1704343882 source:d:\c++\tugas besar alpro - kel5\gameapps\players.cpp
+	"gameapps.h"
+
+1704556318 source:c:\users\matthew\documents\code\tubes\new folder\tugas besar std - kel5\gameapps\games.cpp
+	"gameapps.h"
+
+1704630586 c:\users\matthew\documents\code\tubes\new folder\tugas besar std - kel5\gameapps\gameapps.h
+	<iostream>
+
+1704630573 source:c:\users\matthew\documents\code\tubes\new folder\tugas besar std - kel5\gameapps\players.cpp
+	"gameapps.h"
+
+1704558039 source:c:\users\matthew\documents\code\tubes\new folder\tugas besar std - kel5\gameapps\relasi.cpp
+	"gameapps.h"
+
+1704557796 c:\users\matthew\documents\code\tubes\new folder\tugas besar std - kel5\gameapps\relasi.h
+	"gameapps.h"
+
+1704557746 source:c:\users\matthew\documents\code\tubes\new folder\tugas besar std - kel5\gameapps\main.cpp
+	"gameapps.h"
+
+1704629664 source:c:\users\matthew\documents\code\tubes\new folder\tugas besar std - kel5\gameapps\gameapps.cpp
+	"gameapps.h"
+
+1704685980 source:d:\c++\new folder\tugas besar std - kel5\gameapps\gameapps.cpp
+	"gameapps.h"
+
+1704685432 d:\c++\new folder\tugas besar std - kel5\gameapps\gameapps.h
+	<iostream>
+
+1704556318 source:d:\c++\new folder\tugas besar std - kel5\gameapps\games.cpp
+	"gameapps.h"
+
+1704686077 source:d:\c++\new folder\tugas besar std - kel5\gameapps\main.cpp
+	"gameapps.h"
+
+1704630573 source:d:\c++\new folder\tugas besar std - kel5\gameapps\players.cpp
+	"gameapps.h"
+
+1704685669 source:d:\c++\new folder\tugas besar std - kel5\gameapps\relasi.cpp
+	"gameapps.h"
+
